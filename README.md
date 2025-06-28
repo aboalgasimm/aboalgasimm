@@ -3,8 +3,6 @@
 
 - 👯 I’m looking to collaborate on **cool projects**
 
-- 👨‍💻 All of my projects are available at [https://aboalgasimm.github.io/My-portfolio](https://aboalgasimm.github.io/My-portfolio)
-
 - 📫 How to reach me **aboalgasim.sami@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
